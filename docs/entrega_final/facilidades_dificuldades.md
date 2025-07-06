@@ -28,6 +28,10 @@ Na tabela 1 contêm todos os integrantes da equipe que participaram no desenvolv
                 <td><a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a></td>
                 <td>Adicionou os seus relatos de dificuldado e facilidade em relação a disciplina.  </td>
             </tr>
+            <tr>
+                <td><a href="https://github.com/redjsun">Yzabella Miranda</a></td>
+                <td>Adicionou os seus relatos de dificuldado e facilidade em relação a disciplina.  </td>
+            </tr>
         </tbody>
     </table>
 </div>
