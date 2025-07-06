@@ -100,8 +100,8 @@ Este tópico lista os requisitos que garantem que a interação do usuário com 
     <tr><td><a href="https://requisitos-de-software.github.io/2025.1-GDF-Saude/elicitacao/elicitacao/#RNF06">RNF06</a></td><td>O aplicativo deve ser compatível com leitores de tela para garantir acessibilidade a pessoas com deficiência visual.</td></tr>
     <tr><td><a href="https://requisitos-de-software.github.io/2025.1-GDF-Saude/elicitacao/elicitacao/#RNF10">RNF10</a></td><td>As informações críticas para o usuário, como a carteirinha digital, devem estar acessíveis em até 3 cliques, sendo recomendado no máximo 2 cliques a partir da tela inicial do aplicativo.</td></tr>
     <tr><td><a href="https://requisitos-de-software.github.io/2025.1-GDF-Saude/elicitacao/elicitacao/#RNF12">RNF12</a></td><td>O aplicativo deve disponibilizar uma funcionalidade de chat com um atendente em até 2 cliques a partir da tela inicial e mostrar um número de telefone para suporte.</td></tr>
-    <tr><td><a href="https://requisitos-de-software.github.io/2025.1-GDF-Saude/elicitacao/elicitacao/#RNF14">RNF14</a></td><td>O layout deve ser consistente com o portal oficial do plano.</td></tr>
-    <tr><td><a href="https://requisitos-de-software.github.io/2025.1-GDF-Saude/elicitacao/elicitacao/#RNF15">RNF15</a></td><td>O sistema deve ser acessível em Português.</td></tr>
+    <tr><td><a href="https://requisitos-de-software.github.io/2025.1-GDF-Saude/elicitacao/elicitacao/#RNF14">RNF14</a></td><td> O layout visual do aplicativo mobile (incluindo cores, fontes, ícones e posicionamento de elementos-chave como logotipo e barras de navegação) devem ser totalmente consistentes com o portal web oficial do plano.</td></tr>
+    <tr><td><a href="https://requisitos-de-software.github.io/2025.1-GDF-Saude/elicitacao/elicitacao/#RNF15">RNF15</a></td><td>As informações exibidas, como dados de consulta, devem ser completas e atualizadas em até 100ms.</td></tr>
   </tbody>
 </table>
 
@@ -130,7 +130,7 @@ Esta seção trata da estabilidade e segurança dadas pelo sistema, bem como sua
     <tr><td><a href="https://requisitos-de-software.github.io/2025.1-GDF-Saude/elicitacao/elicitacao/#RNF07">RNF07</a></td><td>Garantir conformidade com a Portaria nº 127/2024, legislações complementares e padrões da LGPD.</td></tr>
     <tr><td><a href="https://requisitos-de-software.github.io/2025.1-GDF-Saude/elicitacao/elicitacao/#RNF09">RNF09</a></td><td>O sistema deve garantir comunicação segura e periódica com a folha de pagamento do GDF para processar descontos de mensalidades dos titulares, com mecanismos de verificação para garantir a integridade e consistência dos valores deco.</td></tr>
     <tr><td><a href="https://requisitos-de-software.github.io/2025.1-GDF-Saude/elicitacao/elicitacao/#RNF11">RNF11</a></td><td>O sistema deve armazenar e permitir o acesso ao histórico de notificações do usuário por no mínimo 180 dias.</td></tr>
-    <tr><td><a href="https://requisitos-de-software.github.io/2025.1-GDF-Saude/elicitacao/elicitacao/#RNF13">RNF13</a></td><td>Funciona offline para carteirinha e histórico.</td></tr>
+    <tr><td><a href="https://requisitos-de-software.github.io/2025.1-GDF-Saude/elicitacao/elicitacao/#RNF13">RNF13</a></td><td> Deve ser possível baixar a carteirinha sem acesso a internet.</td></tr>
   </tbody>
 </table>
 
