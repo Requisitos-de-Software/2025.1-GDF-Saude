@@ -32,9 +32,9 @@ A tabela 2 refere-se as ténicas utilizadas e seu respectivos responsáveis.
                                                                
 | Técnica Utilizada | Executores da Técnica no Projeto | Artefato(s) Relacionado(s) |
 |---|---|---|
-| Inspeção de Fagan | [kotone](https://github.com/kotone) | [Verificações do Grupo](../../verificacao/grupo5/entrega1/planej2-e1), [Verificações do Grupo 2](../../verificacao/grupo6/entrega1/planej2-e1) |
-| Checklists | [kotone](https://github.com/kotone) | [Verificações do Grupo](../../verificacao/grupo5/entrega1/planej2-e1), [Verificações do Grupo 2](../../verificacao/grupo6/entrega1/planej2-e1) |
-| Adaptação do Scrum | [kotone](https://github.com/kotone) | [Reuniões Semanais de Planning e de Review](../../Atas/ata01) |
+| Inspeção de Fagan | [kotone](https://github.com/kotone) | tripleS |
+| Checklists | [kotone](https://github.com/kotone) | tripleS |
+| Adaptação do Scrum | [kotone](https://github.com/kotone) | tripleS |
 | Questionário | [kotone](https://github.com/kotone) | [Questionário](../../elicitacao/grupo5/definicao-perfil_de_usuario/questionario), [Perfil de Usuário](../../elicitacao/grupo5/definicao-perfil_de_usuario/perfil-usuario) |
 | Personas | [kotone](https://github.com/kotone) | [Personas](../../elicitacao/grupo5/personas), [Casos de Uso](../../modelagem-pt1/casos-de-uso), [Validação de Casos de Uso](../../modelagem-pt1/validacaoCasodeUso) |
 | Entrevistas | [kotone](https://github.com/kotone) | [100$](../../elicitacao/grupo5/priorizacao/100$), [In or Out](../elicitacao/grupo5/priorizacao/inorout.md), [Three Level Scale](../../elicitacao/grupo5/priorizacao/threelevelscale), [Brainstorming](../../elicitacao/grupo5/brainstorm), [Prototipação](../../validacao/modelo) |
@@ -49,4 +49,4 @@ A tabela 2 refere-se as ténicas utilizadas e seu respectivos responsáveis.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| `1.0` | 06/07/2025 | Criação da página de ferramentas e ajuste do corpo do dcumento, basicamente ajustando onde cada tópico ficará. | [Yzabella Miran](https://github.com/redjsun) | [Matheus de Alcântara](https://github.com/matheusdealcantara) | 
+| `1.0` | 06/07/2025 | Criação da página de ferramentas e ajuste do corpo do documento, basicamente ajustando onde cada tópico ficará. | [Yzabella Miranda](https://github.com/redjsun) | [Matheus de Alcântara](https://github.com/matheusdealcantara) | 
