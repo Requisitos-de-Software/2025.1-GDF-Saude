@@ -86,6 +86,22 @@ Além disso, também tive dificuldade em conciliar as demandas do projeto com ou
 
 Portanto, a falta de clareza nas informações, a ausência de um modelo de como as coisas deveriam ser feitas e a carência de uma documentação fixa do que deveria ser entregue causaram muito problema para todo o grupo. Isso afeta nosso tempo de estudo e organização para outras matérias, causando estresse, ansiedade e frustação em relação à disciplina.
 
+## Yzabella Miranda
+
+### Facilidades
+
+O aprendizado de como utilizar a sintaxe do MarkDown é um dos principais pontos, senão o único, que visualizei como um fator facilitador. Também, podendo ser possível, acrescentar repositório de trabalhos anteriores, que auxiliaram em um direcionamento mais apurado do que deveria ser feito.
+
+### Dificuldades
+
+A princípio, o projeto parecia incerto e, no fim, a incerteza persistiu. Durante todo o percurso, tive dúvidas sobre o que e como deveria ser feito. Muitas vezes, precisei refletir várias vezes até perceber que, ainda assim, não sabia o que fazer. As informações confusas vinham tanto das inconsistências das explicações de aula, do plano de ensino não atualizado e do monitoramento. Começamos o projeto sendo chamados de preguiçosos, mas a verdade é que a orientação sobre a divisão do trabalho foi totalmente ambígua. Esse problema de informações erradas, incompletas ou incertas continuou até o último dia de entrega, e em vez de melhorar, só piorou. Para mim, não faz sentido sete pessoas receberem uma tarefa e ninguém entender. Isso mostra que o problema não era interno, mas sim externo.
+
+Além disso, as demandas intensas no início e meio do projeto me deixaram em uma situação delicada, sem saber como equilibrar tudo, o que resultou em uma situação crítica em algumas matérias. É como se a disciplina fosse de 60 horas, mas a cobrança fosse dobrada. A necessidade de ir constantemente atrás de pessoas para gravações tornou a experiência desagradável e, às vezes, constrangedora.
+
+Outro ponto importante é que, mesmo sendo um trabalho em grupo com notas individuais, ainda dependemos de todos para que dê certo. Isso cria uma situação em que alguém sempre acaba sobrecarregado, seja tendo que fazer algo do zero ou refazer/corrigir algo feito com pouco cuidado.
+
+Portanto, o projeto foi marcado por incertezas constantes e falta de clareza nas orientações, evidenciando problemas na estrutura externa de comunicação, e não, somente, na equipe. As demandas excessivas sobrecarregaram o grupo, afetando outras disciplinas e tornando a experiência particularmente desgastante.
+
 
 ## Histórico de Versões
 
@@ -94,3 +110,4 @@ Portanto, a falta de clareza nas informações, a ausência de um modelo de como
 | `1.0` | 02/07/2025 | Adição das facilidades e dificulades do Isaque | [Isaque Camargos](https://github.com/isaqzin) | [Ana Luiza](https://github.com/Ana-Luiza-SC) |
 | `1.1` | 03/07/2025 | Adição das facilidades e dificulades da Ana Luiza | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Isaque Camargos](https://github.com/isaqzin) |
 | `1.2` | 04/07/2025 | Adição das facilidades e dificuldades do Matheus | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Yzabella Miranda](https://github.com/redjsun) |
+| `1.3` | 05/07/2025 | Adição das facilidades e dificuldades da Yzabella | [Yzabella Miranda](https://github.com/redjsun) | [Matheus de Alcântara](https://github.com/matheusdealcantara)
