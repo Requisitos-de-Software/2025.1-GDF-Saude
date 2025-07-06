@@ -416,10 +416,10 @@ Ao longo do projeto, diversos artefatos foram criados, refletindo a evolução e
 
 ## Bibliografia
 
-> Bilheteria Digital. Artefatos Criados. Disponível em: <<https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/entrega-final/artefatos-criados/>>. Acesso em: 06 de fevereiro de 2025.
+> Bilheteria Digital. Artefatos Criados. Disponível em: <<https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/entrega-final/artefatos-criados/>>. Acesso em: 06 de julho de 2025.
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 06/02/2025 | Criação do documento | [Lucas Alves](https://github.com/LucasAlves71) e [Kaleb Macedo](https://github.com/kalebmacedo)  | [Othavio Bolzan](https://github.com/bolzanMGB)|
+| `1.0`  | 06/07/2025 | Criação do documento | [Lucas Alves](https://github.com/LucasAlves71) e [Kaleb Macedo](https://github.com/kalebmacedo)  | [Othavio Bolzan](https://github.com/bolzanMGB)|
