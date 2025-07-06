@@ -44,6 +44,9 @@ Os dados obtidos na entrevista estão em conformidadde com o do questionário e/
 
 ## Perfil de Usuário 
 
+
+<p align="center">Tabela 2 - perfil de usuário</p>
+
 | Critério              | Especificação                           |
 |-----------------------|-------------------------------------------------------------------------|
 |Gênero             | Predominante feminino|
@@ -55,6 +58,8 @@ Os dados obtidos na entrevista estão em conformidadde com o do questionário e/
 |Frequência de Uso do app| Raramente|
 |Aplicações mais utilizadas| Análise da rede credenciada, Visualização de exames, Acesso à carteirinha digital, Consultas e extratos financeiros, Acesso às orientações de saúde |
 |Plataforma de acesso do app| Smartphone |
+
+<p align="center">Fonte: Autoria de <a href="https://github.com/isaqzin">Isaque Camargos</a></p>
 
 ## Conclusão 
 
