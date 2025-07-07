@@ -3,7 +3,7 @@
 
 ## Introdução
 
-NÃO FIZ INTRODUÇÃO, ALGUEM FAZ 
+Este documento tem como objetivo apresentar as principais facilidades e dificuldades enfrentadas por cada membro do grupo ao longo da disciplina de Requisitos de Software. As reflexões aqui registradas buscam não apenas fornecer um feedback construtivo ao professor responsável, mas também servir como referência para os alunos de turmas futuras, contribuindo para uma melhor compreensão dos desafios e aprendizados envolvidos na matéria.
 
 ## Tabela de Integrantes
 
@@ -29,10 +29,15 @@ Na tabela 1 contêm todos os integrantes da equipe que participaram no desenvolv
                 <td>Adicionou os seus relatos de dificuldado e facilidade em relação a disciplina.  </td>
             </tr>
             <tr>
+                <td><a href="https://github.com/bolzanMGB">Othavio Bolzan</a></td>
+                <td>Adicionou os seus relatos de dificuldado e facilidade em relação a disciplina e fez a introdução.  </td>
+            </tr>
+            <tr>
                 <td><a href="https://github.com/redjsun">Yzabella Miranda</a></td>
                 <td>Adicionou os seus relatos de dificuldado e facilidade em relação a disciplina.  </td>
             </tr>
         </tbody>
+        
     </table>
 </div>
 
@@ -94,6 +99,16 @@ Além disso, também tive dificuldade em conciliar as demandas do projeto com ou
 
 Portanto, a falta de clareza nas informações, a ausência de um modelo de como as coisas deveriam ser feitas e a carência de uma documentação fixa do que deveria ser entregue causaram muito problema para todo o grupo. Isso afeta nosso tempo de estudo e organização para outras matérias, causando estresse, ansiedade e frustação em relação à disciplina.
 
+## Othavio Bolzan
+
+### Facilidades
+
+Uma das principais facilidades foi o aprendizado da sintaxe do Markdown, que se mostrou útil na elaboração dos documentos. Além disso, alguns repositórios de trabalhos anteriores serviram como referência e ajudaram a compreender, mesmo que parcialmente, o que era esperado em cada entrega. Também encontrei apoio em algumas indicações de leitura disponíveis na plataforma Aprender, que auxiliaram no entendimento de conceitos abordados na disciplina.
+
+### DIficuldades
+
+Tive bastante dificuldade para entender o que exatamente precisava ser feito em cada artefato, principalmente pelas constantes divergências entre o que era dito em sala de aula e o que estava documentado no plano de ensino. A ausência de um modelo claro a ser seguido contribuía para essa confusão, o que me deixava perdido quanto ao propósito e à importância de certas atividades — muitas delas exigiam um trabalho manual extenso que, em vários momentos, parecia desnecessário. Além disso, as listas de tarefas eram longas e pouco objetivas, o que aumentava ainda mais a sensação de sobrecarregamento. Somado a isso, tive dificuldade de acesso ao próprio aplicativo GDF Saúde, já que não sou beneficiário, e enfrentei desafios para conciliar as demandas dessa disciplina com as de outras matérias do semestre.
+
 ## Yzabella Miranda
 
 ### Facilidades
@@ -119,3 +134,4 @@ Portanto, o projeto foi marcado por incertezas constantes e falta de clareza nas
 | `1.1` | 03/07/2025 | Adição das facilidades e dificulades da Ana Luiza | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Isaque Camargos](https://github.com/isaqzin) |
 | `1.2` | 04/07/2025 | Adição das facilidades e dificuldades do Matheus | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Yzabella Miranda](https://github.com/redjsun) |
 | `1.3` | 05/07/2025 | Adição das facilidades e dificuldades da Yzabella | [Yzabella Miranda](https://github.com/redjsun) | [Matheus de Alcântara](https://github.com/matheusdealcantara)
+| `1.4` | 07/07/2025 | Adição das facilidades e dificuldades Othavio | [Othavio Bolzan](https://github.com/bolzanMGB) |  [Ana Luiza](https://github.com/Ana-Luiza-SC) |

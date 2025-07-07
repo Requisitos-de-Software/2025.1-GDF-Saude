@@ -40,7 +40,7 @@ Na tabela 1 contêm todos os integrantes da equipe que participaram no desenvolv
             </tr>
             <tr>
                 <td><a href="https://github.com/bolzanMGB">Othavio Bolzan</a></td>  
-                <td> Adicionou o Backward From (<a href="#BF28">BF28</a> a <a href="#BF34">BF34</a>) e os elos correspondentes.</td>  
+                <td> Adicionou o Backward From (<a href="#BF28">BF28</a> a <a href="#BF34">BF34</a>, <a href="#BF64">BF64</a>, <a href="#BF65">BF65</a> E <a href="#BF71">BF71</a>) e os elos correspondentes.</td>  
             </tr>
             <tr>
                 <td><a href="https://github.com/redjsun">Yzabella Miranda</a></td> 
@@ -168,13 +168,13 @@ Na tabela 3 encontra-se a rastreabilidade Backward from dos requisitos não func
 | <a id="BF62"></a>BF62 | [RNF06](../elicitacao/elicitacao.md#RNF06) | [RNF06](../elicitacao/requisitos_finais.md#RNF06) | O aplicativo deve ser compatível com leitores de tela para garantir acessibilidade a pessoas com deficiência visual. | [IS20](../elicitacao/tecnicas/introspeccao.md#IS20), [QT14](../elicitacao/tecnicas/questionario.md#QT14) | Não | [ELOBF62](#ELOBF62) |
 | <a id="BF63"></a>BF63 | [RNF07](../elicitacao/elicitacao.md#RNF07) | [RNF07](../elicitacao/requisitos_finais.md#RNF07) | Garantir conformidade com a Portaria nº 127/2024, legislações complementares e padrões da LGPD. | [GL10](../elicitacao/tecnicas/glossario.md#GL10), [QT15](../elicitacao/tecnicas/questionario.md#QT15) | Sim | [ELOBF63](#ELOBF63) |
 | <a id="BF64"></a>BF64 | [RNF08](../elicitacao/elicitacao.md#RNF08) | [RNF08](../elicitacao/requisitos_finais.md#RNF08) | Processar autorizações prévias em até 10 dias úteis. | [GL13](../elicitacao/tecnicas/glossario.md#GL13) | Sim | [ELOBF62](#ELOBF62) |
-| <a id="BF65"></a>BF65 | [RNF09](../elicitacao/elicitacao.md#RNF09) | [RNF09](../elicitacao/requisitos_finais.md#RNF09) | Comunicar-se com a folha de pagamento do GDF para descontos de mensalidades. | [GL14](../elicitacao/tecnicas/glossario.md#GL14) | Sim | [ELOBF63](#ELOBF63) |
+| <a id="BF65"></a>BF65 | [RNF09](../elicitacao/elicitacao.md#RNF09) | [RNF09](../elicitacao/requisitos_finais.md#RNF09) | O sistema deve enviar, mensalmente, até o dia 5 de cada mês, as informações de desconto dos beneficiários para a folha de pagamento do GDF e registrar o status de sucesso ou falha da operação. | [GL14](../elicitacao/tecnicas/glossario.md#GL14) | Sim | [ELOBF63](#ELOBF63) |
 | <a id="BF66"></a>BF66 | [RNF10](../elicitacao/elicitacao.md#RNF10) | [RNF10](../elicitacao/requisitos_finais.md#RNF10) | Garantir que informações críticas, como a carteirinha digital, estejam acessíveis em até três cliques ou com no máximo 2 cliques a partir da tela inicial. | [GF15](../elicitacao/tecnicas/grupo_focal.md#GF15), [IS16](../elicitacao/tecnicas/introspeccao.md#IS16) | Sim | [ELOBF64](#ELOBF64) |
 | <a id="BF67"></a>BF67 | [RNF11](../elicitacao/elicitacao.md#RNF11) | [RNF11](../elicitacao/requisitos_finais.md#RNF11) | O sistema deve armazenar e permitir o acesso ao histórico de notificações do usuário por no mínimo 180 dias. | [GF16](../elicitacao/tecnicas/grupo_focal.md#GF16) | Não | [ELOBF65](#ELOBF65) |
 | <a id="BF68"></a>BF68 | [RNF12](../elicitacao/elicitacao.md#RNF12) | [RNF12](../elicitacao/requisitos_finais.md#RNF12) | O aplicativo deve disponibilizar uma funcionalidade de chat com um atendente em até 2 cliques a partir da tela inicial e mostrar um número de telefone para suporte. | [IS15](../elicitacao/tecnicas/introspeccao.md#IS15) | Sim | [ELOBF66](#ELOBF66) |
 | <a id="BF69"></a>BF69 | [RNF13](../elicitacao/elicitacao.md#RNF13) | [RNF13](../elicitacao/requisitos_finais.md#RNF13) | Deve funcionar de forma offline para acesso à carteirinha e histórico de consultas. | [IS19](../elicitacao/tecnicas/introspeccao.md#IS19) | Não | [ELOBF67](#ELOBF67) |
 | <a id="BF70"></a>BF70 | [RNF14](../elicitacao/elicitacao.md#RNF14) | [RNF14](../elicitacao/requisitos_finais.md#RNF14) | O layout deve ser consistente com o portal oficial do plano. | [QT16](../elicitacao/tecnicas/questionario.md#QT16) | Não | [ELOBF68](#ELOBF68) |
-| <a id="BF71"></a>BF71 | [RNF15](../elicitacao/elicitacao.md#RNF15) | [RNF15](../elicitacao/requisitos_finais.md#RNF15) | As informações exibidas devem ser claras, completas e atualizadas em tempo real. | [QT13](../elicitacao/tecnicas/questionario.md#QT13) | Sim | |
+| <a id="BF71"></a>BF71 | [RNF15](../elicitacao/elicitacao.md#RNF15) | [RNF15](../elicitacao/requisitos_finais.md#RNF15) |As informações exibidas, como dados de consulta, devem ser completas e atualizadas em até 100ms. | [QT13](../elicitacao/tecnicas/questionario.md#QT13) | Sim | |
 
 
 <p align="center">Fonte: Autoria de <a href="https://github.com/isaqzin">Isaque Camargos</a> e <a href="https://github.com/matheusdealcantara">Matheus de Alcântara</a></p>
