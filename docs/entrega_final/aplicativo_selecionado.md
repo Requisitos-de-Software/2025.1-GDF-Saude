@@ -5,6 +5,7 @@ Durante a etapa inicial de seleção, o grupo avaliou potenciais aplicativos, po
 
 ## Critérios da escolha
 A seleção do GDF Saúde como objeto de estudo foi pautada pelos seguintes critérios estratégicos:
+
 - Aplicativo ainda não trabalhado na disciplina anteriormente
 - Sugestão do professor
 - Complexidade média com requisitos diversificados
@@ -19,7 +20,7 @@ Para assegurar que o projeto fosse conduzido de maneira ética e em conformidade
 
 
 <p align="center">
-  <img src="../assets/img/paginaTermos.png" alt="Heatmap de disponibilidade da equipe" width="600">
+  <img src="../../planejamento/assets/img/paginaTermos.png" alt="Heatmap de disponibilidade da equipe" width="600">
 </p>
 <p align="center"><em>Fonte: Aplicativo do GDF Saúde.</em></p>
 
@@ -30,7 +31,7 @@ Diante da ausência de diretrizes claras sobre esse tipo de uso, surgiram dúvid
 Como ainda não obtivemos retorno, e considerando a falta de Termos de Uso acessíveis e de orientações específicas nos documentos disponíveis, o grupo decidiu adotar uma abordagem cautelosa. Optamos por limitar o escopo do trabalho à análise externa e à elicitação de requisitos observáveis no funcionamento geral do aplicativo, sem realizar qualquer prática que envolva engenharia reversa ou acesso à estrutura interna da aplicação. Com isso, reafirmamos nosso compromisso com uma postura ética e responsável, respeitando os limites legais e institucionais, bem como os princípios que regem a pesquisa acadêmica.
 
 ## Rich Picture
-O RichPicture é uma técnica visual colaborativa utilizada para explorar e comunicar complexidades de sistemas, traduzindo conceitos abstratos em uma representação gráfica acessível. Sua abordagem informal e flexível permite uma compreensão holística do sistema, facilitando a identificação de gargalos, requisitos e oportunidades de melhoria, sem se prender a formalismos excessivos.
+O RichPicture é uma técnica visual colaborativa utilizada para explorar e comunicar complexidades de sistemas, traduzindo conceitos abstratos em uma representação gráfica acessível. Sua abordagem informal e flexível permite uma compreensão holística do sistema, facilitando a identificação de gargalos, requisitos e oportunidades de melhoria, sem se prender a formalismos excessivos. O rich picture encontra-se na figura 2 e a legenda dele na figura 3.
 
 ### Ferramentas
 O [Figma](https://www.figma.com/community) foi utilizado para a criação do rich picture que pode ser visualizado na figura 2.

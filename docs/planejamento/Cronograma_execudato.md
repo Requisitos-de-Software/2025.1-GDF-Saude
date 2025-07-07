@@ -8,6 +8,8 @@ Este documento apresenta o cronograma executado da disciplina de **Requisitos de
 
 As tabelas foram elaboradas inicialmente no **Microsoft Excel** e convertidas para Markdown com auxílio da ferramenta **Deepseek**. A estrutura segue o mesmo modelo utilizado no cronograma planejado, respeitando as etapas previstas e organizando as atividades por entrega.
 
+A tabela 1 contém as datas planejadas das entregas e da tabela 2 a tabela 8 estão as datas que foram executadas as entregas. 
+
 <br>
 
 ## Entregas do Projeto
@@ -131,26 +133,26 @@ As tabelas foram elaboradas inicialmente no **Microsoft Excel** e convertidas pa
 
 | Título | Autor(es) | Revisor(es) | Data de Entrega Planejada | Data de Entrega Executada |
 |--------|-----------|-------------|---------------------------|---------------------------|
-| Correções no projeto conforme apontado na apresentação anterior | Ana Luiza Soares, Matheus de Alcântara, Kaleb Macedo, Othavio Bolzan, Yzabella Miranda, Lucas Alves | Isaque Camargos | 12/06 - 14/06 | - |
-| Verificação do Rich Picture | Ana Luiza Soares | Kaleb Macedo | 15/06 - 21/06 | - |
-| Verificação do NFR Framework | Lucas Alves | Othavio Bolzan | 15/06 - 21/06 | - |
-| Verificação dos Casos de uso | Ana Luiza Soares | Yzabella Miranda | 15/06 - 21/06 | - |
-| Verificação do Brainstorming | Matheus de Alcântara | Lucas Alves | 15/06 - 21/06 | - |
-| Verificação do Backlog | Lucas Alves | Ana Luiza Soares | 15/06 - 21/06 | - |
-| Verificação do Léxico | Kaleb Macedo | Isaque Camargos | 15/06 - 21/06 | - |
-| Verificação das Histórias de usuários | Ana Luiza Soares | Kaleb Macedo | 15/06 - 21/06 | - |
-| Verificação das Técnicas de elicitação | Isaque Camargos | Othavio Bolzan | 15/06 - 21/06 | - |
-| Verificação da Priorização | Yzabella Miranda | Lucas Alves | 15/06 - 21/06 | - |
-| Verificação da Especificação Suplementar | Ana Luiza Soares | Yzabella Miranda | 15/06 - 21/06 | - |
-| Verificação dos Cenários | Lucas Alves | Kaleb Macedo | 15/06 - 21/06 | - |
-| Verificação da Entrevista | Matheus de Alcântara | Ana Luiza Soares | 15/06 - 21/06 | - |
-| Verificação da Perfil de usuário | Yzabella Miranda | Isaque Camargos | 15/06 - 21/06 | - |
-| Verificação das Personas | Isaque Camargos | Kaleb Macedo | 15/06 - 21/06 | - |
-| Verificação da Introspecção | Ana Luiza Soares | Lucas Alves | 15/06 - 21/06 | - |
-| Criação da lista de verificação | Ana Luiza Soares, Isaque Camargos | Yzabella Miranda | 15/06 - 21/06 | - |
-| Gravação da inspeção do grupo | Isaque Camargos, Ana Luiza Soares | Matheus de Alcântara | 23/06 - 23/06 | - |
-| Gravação da Apresentação | Othavio Bolzan | Ana Luiza Soares | 23/06 - 23/06 | - |
-| Envio da entrega | Matheus de Alcântara | Kaleb Macedo | 25/06 - 25/06 | - |
+| Correções no projeto conforme apontado na apresentação anterior | Ana Luiza Soares, Matheus de Alcântara, Kaleb Macedo, Othavio Bolzan, Yzabella Miranda, Lucas Alves | Isaque Camargos | 12/06 - 14/06 | 22/06 |
+| Verificação do Rich Picture | Ana Luiza Soares | Kaleb Macedo | 15/06 - 21/06 | 22/06 |
+| Verificação do NFR Framework | Lucas Alves | Othavio Bolzan | 15/06 - 21/06 | 22/06 |
+| Verificação dos Casos de uso | Ana Luiza Soares | Yzabella Miranda | 15/06 - 21/06 | 22/06 |
+| Verificação do Brainstorming | Matheus de Alcântara | Lucas Alves | 15/06 - 21/06 | 22/06 |
+| Verificação do Backlog | Lucas Alves | Ana Luiza Soares | 15/06 - 21/06 | 22/06 |
+| Verificação do Léxico | Kaleb Macedo | Isaque Camargos | 15/06 - 21/06 | 22/06 |
+| Verificação das Histórias de usuários | Ana Luiza Soares | Kaleb Macedo | 15/06 - 21/06 | 22/06 |
+| Verificação das Técnicas de elicitação | Isaque Camargos | Othavio Bolzan | 15/06 - 21/06 | 22/06 |
+| Verificação da Priorização | Yzabella Miranda | Lucas Alves | 15/06 - 21/06 | 22/06 |
+| Verificação da Especificação Suplementar | Ana Luiza Soares | Yzabella Miranda | 15/06 - 21/06 | 22/06 |
+| Verificação dos Cenários | Lucas Alves | Kaleb Macedo | 15/06 - 21/06 | 22/06 |
+| Verificação da Entrevista | Matheus de Alcântara | Ana Luiza Soares | 15/06 - 21/06 | 22/06 |
+| Verificação da Perfil de usuário | Yzabella Miranda | Isaque Camargos | 15/06 - 21/06 | 22/06 |
+| Verificação das Personas | Isaque Camargos | Kaleb Macedo | 15/06 - 21/06 | 22/06 |
+| Verificação da Introspecção | Ana Luiza Soares | Lucas Alves | 15/06 - 21/06 | 22/06 |
+| Criação da lista de verificação | Ana Luiza Soares | Yzabella Miranda | 15/06 - 21/06 | 22/06 |
+| Gravação da inspeção do grupo | Isaque Camargos, Ana Luiza Soares | Matheus de Alcântara | 23/06 - 23/06 | 22/06 |
+| Gravação da Apresentação | Othavio Bolzan | Ana Luiza Soares | 23/06 - 23/06 | 22/06 |
+| Envio da entrega | Matheus de Alcântara | Kaleb Macedo | 25/06 - 25/06 | 22/06 |
 
 <p align="center">Fonte: Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a> e <a href="https://github.com/isaqzin">Isaque Camargos</a></p>
 
@@ -160,19 +162,19 @@ As tabelas foram elaboradas inicialmente no **Microsoft Excel** e convertidas pa
 
 <br>
 
-<p align="center">Tabela 7 – Entrega 6 Executada</p>
+<p align="center">Tabela 7 – Entrega 6 Executado</p>
 
 | Título | Autor(es) | Revisor(es) | Data de Entrega Planejada | Data de Entrega Executada |
 |--------|-----------|-------------|---------------------------|---------------------------|
-| Correções no projeto conforme apontado na apresentação anterior | Ana Luiza Soares, Matheus de Alcântara, Kaleb Macedo, Othavio Bolzan, Yzabella Miranda, Lucas Alves | Isaque Camargos | 29/05 - 31/05 | - |
-| Pós-rastreabilidade: Backward-form | Isaque Camargos, Yzabella Miranda, Lucas Alves | Kaleb Macedo | 01/06 - 07/06 | - |
-| Pós-rastreabilidade: Forward-form | Ana Luiza Soares, Othavio Bolzan, Matheus de Alcântara | Isaque Camargos | 01/06 - 07/06 | - |
-| Matriz de Rastreabilidade | Lucas Alves, Kaleb Macedo, Matheus de Alcântara | Ana Luiza Soares | 01/06 - 07/06 | - |
-| Criação da lista de verificação | Matheus de Alcântara, Othavio Bolzan | Yzabella Miranda | 01/06 - 07/06 | - |
-| Gravação da inspeção do grupo | Isaque Camargos, Ana Luiza Soares | Matheus de Alcântara | 09/06 - 09/06 | - |
-| Gravação da Apresentação | Matheus de Alcântara | Yzabella Miranda | 09/06 - 09/06 | - |
-| Envio da entrega | Lucas Alves | Kaleb Macedo | 10/06 - 10/06 | - |
-| Gravação da Inspeção Grupo + 1 | Othavio Bolzan | Othavio Bolzan | 11/06 - 11/06 | - |
+| Correções no projeto conforme apontado na apresentação anterior | Ana Luiza Soares, Matheus de Alcântara, Kaleb Macedo, Othavio Bolzan, Yzabella Miranda, Lucas Alves | Isaque Camargos | 29/05 - 31/05 | 15/06 |
+| Pós-rastreabilidade: Backward-form | Isaque Camargos, Yzabella Miranda, Lucas Alves | Kaleb Macedo | 01/06 - 07/06 | 15/06 |
+| Pós-rastreabilidade: Forward-form | Ana Luiza Soares, Othavio Bolzan, Matheus de Alcântara | Isaque Camargos | 01/06 - 07/06 | 15/06 |
+| Matriz de Rastreabilidade | Lucas Alves, Kaleb Macedo, Matheus de Alcântara | Ana Luiza Soares | 01/06 - 07/06 | 15/06 |
+| Criação da lista de verificação | Matheus de Alcântara, Othavio Bolzan | Yzabella Miranda | 01/06 - 07/06 | 15/06 |
+| Gravação da inspeção do grupo | Isaque Camargos, Ana Luiza Soares | Matheus de Alcântara | 09/06 - 09/06 | 15/06 |
+| Gravação da Apresentação | Matheus de Alcântara | Yzabella Miranda | 09/06 - 09/06 | 15/06 |
+| Envio da entrega | Lucas Alves | Kaleb Macedo | 10/06 - 10/06 | 15/06 |
+| Gravação da Inspeção Grupo + 1 | Othavio Bolzan | Othavio Bolzan | 11/06 - 11/06 | 16/06 |
 
 <p align="center">Fonte: Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a> e <a href="https://github.com/isaqzin">Isaque Camargos</a></p>
 
@@ -184,14 +186,23 @@ As tabelas foram elaboradas inicialmente no **Microsoft Excel** e convertidas pa
 
 <p align="center">Tabela 8 – Entrega Final Executada</p>
 
-| Título | Autor(es) | Revisor | Data de início | Data do fim | Data para revisão |
-|---|---|---|---|---|---|
-| Correções no projeto conforme apontado na apresentação anterior | Ana Luiza Soares, Matheus de Alcântara, Kaleb Macedo, Othavio Bolzan, Yzabella Miranda, Lucas Alves | Lucas Alves | 25/06 | 30/06 | 30/06 - 01/07 |
-| Desenvolvimento do projeto final (correção e complemento) | Isaque Camargos, Yzabella Miranda | Lucas Alves | 01/06 | 07/06 | 07/06 - 09/06 |
-| Criação da lista de verificação | Othavio Bolzan, Kaleb Macedo | Ana Luiza Soares | 01/06 | 07/06 | 07/06 - 09/06 |
-| Gravação da inspeção do grupo | Isaque Camargos, Ana Luiza Soares | Matheus de Alcântara | 05/07 | 05/07 | 05/07 |
-| Gravação da Apresentação | Matheus de Alcântara | Ana Luiza Soares | 05/07 | 05/07 | 05/07 |
-| Envio da entrega | Lucas Alves | Kaleb Macedo | 07/07 | 07/07 | 07/07 |
+
+| Título | Autor(es) | Revisor(es) | Data de Entrega Planejada | Data de Entrega Executada |
+|--------|-----------|-------------|---------------------------|---------------------------|
+| Correções no projeto conforme apontado na apresentação anterior | Ana Luiza Soares, Matheus de Alcântara, Kaleb Macedo, Othavio Bolzan, Yzabella Miranda, Lucas Alves | Lucas Alves | 25/06 - 30/06 | 07/07 |
+| Criação da página da entrega final: Aplicativo Selecionado | Isaque Camargos |  Ana Luiza Soares | 01/06 - 07/06 | 07/07 |
+| Criação da página da entrega final:  Artefatos criados | Othavio Bolzan, Kaleb Macedo e Lucas Alves | Isaque Camargos | 01/06 - 07/06 | 07/07 |
+| Criação da página da entrega final: Execução do projeto | Isaque Camargos e Ana Luiza | yzabella Miranda | 01/06 - 07/06 | 07/07 |
+| Criação da página da entrega final: Ferramentas utilizadas | Isaque Camargos | Matheus de Alcantâra| 01/06 - 07/06 | 07/07 |
+| Criação da página da entrega final: Planejamento dos recursos e entregas | Isaque camargos |  Othavio Bolzan| 01/06 - 07/06 | 07/07 |
+| Criação da página da entrega final: Facilidades e Dificuldades | Ana Luiza Soares, Matheus de Alcântara, Kaleb Macedo, Othavio Bolzan, Yzabella Miranda, Lucas Alves |  Othavio Bolzan| 01/06 - 07/06 | 07/07 |
+| Criação da página da entrega final: Resultados Alcançados  | Matheus de Alcântara | kaleb Macedo | 01/06 - 07/06 | 07/07 |
+| Criação da página da entrega final: Técnicas utilizadas  | Ana Luzia Soares e Yzabella Miranda| Lucas Alves | 01/06 - 07/06 | 07/07 |
+| Criação da página da entrega final: Apresentações  | Kaleb Macedo | Isaque Camargos | 01/06 - 07/06 | 07/07 |
+| Criação da página da entrega final: Verificação  | Kaleb Macedo e Lucas Alves | Matheus de Alcântara| 01/06 - 07/06 | 07/07 |
+| Criação da página da entrega final: Validação| Kaleb Macedo e Lucas Alves| Yzabella Miranda | 01/06 - 07/06 | 07/07 |
+| Gravação da Apresentação |  Ana Luiza Soares | Othavio Bolzan | 05/07 |  07/07 |
+| Envio da entrega | Lucas Alves | Kaleb Macedo | 07/07 | 07/07 |
 
 <p align="center">Fonte: Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a> e <a href="https://github.com/isaqzin">Isaque Camargos</a></p>
 
@@ -217,7 +228,8 @@ SALES, André Barros de. Plano de ensino da disciplina Requisitos de Software �
 
 | Versão | Data       | Descrição                    | Autor(es)        | Revisor(es)         |
 |--------|------------|------------------------------|------------------|---------------------|
-| 1.0    | 12/04 | Criação do Cronograma Executado | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) e [Isaque Camargos](https://github.com/isaqzin) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
-| 2.0    | 01/05 | Atualização para corresponder ao detalhamento do cronograma e a nova data da entrega 2 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) e [Isaque Camargos](https://github.com/isaqzin) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
-| 2.1    | 01/05 | Atualização das datas da entregas feitas durante a entrega 2 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) e [Isaque Camargos](https://github.com/isaqzin) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
-| 2.2    | 01/06 | Adição da data de entrega 4, observação: as entregas anteriores foram adicionadas no docuemnto mas não no histórico de versão | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
+| `1.0`    | 12/04 | Criação do Cronograma Executado | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) e [Isaque Camargos](https://github.com/isaqzin) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
+| `2.0`    | 01/05 | Atualização para corresponder ao detalhamento do cronograma e a nova data da entrega 2 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) e [Isaque Camargos](https://github.com/isaqzin) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
+| `2.1`    | 01/05 | Atualização das datas da entregas feitas durante a entrega 2 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) e [Isaque Camargos](https://github.com/isaqzin) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
+| `2.2`    | 01/06 | Adição da data de entrega 4, observação: as entregas anteriores foram adicionadas no docuemnto mas não no histórico de versão | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
+| `3.0`    | 07/07/2025 | Adicionando as datas final e texto "chamando" as tabelas e corrigindo datas de execução  |  [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |

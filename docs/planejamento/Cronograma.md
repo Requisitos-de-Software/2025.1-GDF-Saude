@@ -31,6 +31,8 @@ O cronograma planejado foi baseado principalmente nas datas oficiais do [plano d
 Em **18 de abril de 2025**, o documento passou por atualização para maior detalhamento, mantendo intacto o cronograma da *Entrega 1* uma vez que essa entrega já foi concluída. Mas no dia **01 de maio de 2025** foi atualizado novamente para atualizar a nova data de entrega para a entrega 2, que apesar de ter sido falado em sala de aula, não foi alterado no plano de ensino.
 
 
+A tabela 1 contém as datas planejadas das entregas e da tabela 2 a tabela 8 estão as datas planejadas para cada artefato das entregas. 
+
 <br>
 
 ## Entregas do Projeto
