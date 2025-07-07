@@ -34,7 +34,7 @@ Na tabela 1 contêm todos os integrantes da equipe que participaram no refinamen
             </tr>
             <tr>
                 <td><a href="https://github.com/matheusdealcantara">Matheus de Alcântara</a></td>
-                <td>Realizou a rastreabilidade backward-from <a href="#FF22">FF22</a> a <a href="#FF27">FF27</a>, <a href="#FF60">FF60</a>, <a href="FF61">FF61</a> e <a href="#FF68">FF68</a>. Além dos ELOS do mesmo intervalo, <a href="#ELOF22">ELOF22</a> a <a href="#ELOF27">ELOF27</a>, <a href="#ELOF60">ELOF60</a>, <a href="#ELOF61">ELOF61</a> e <a href="#ELOF68">ELOF68</a></td>
+                <td>Realizou a rastreabilidade backward-from <a href="#FF22">FF22</a> a <a href="#FF27">FF27</a>, <a href="#FF62">FF62</a>, <a href="FF63">FF63</a> e <a href="#FF70">FF70</a>. Além dos ELOS do mesmo intervalo, <a href="#ELOF22">ELOF22</a> a <a href="#ELOF27">ELOF27</a>, <a href="#ELOF62">ELOF62</a>, <a href="#ELOF63">ELOF63</a> e <a href="#ELOF70">ELOF70</a></td>
             </tr>
             <tr>
                 <td><a href="https://github.com/bolzanMGB">Othavio Bolzan</a></td>  
@@ -295,3 +295,5 @@ SERRANO, Milene; SERRANO, Maurício. **Slides da Aula 26 - Requisitos de Softwar
 |`1.9`|02/07/2025 | Arrumando os meus requisitos | [Isaque Camargos](https://github.com/isaqzin) | [Lucas Alves](https://github.com/LucasAlves71) |
 | `2.0` | 05/07/2025 | Arrumei questão de requisito faltante e requisito inexistente com descrição que não batia com o requisito final, arrumei a questão da enumeração, arrumei a questão de enumeração, questao de link para a os métodos tradicionais, pois estava indo para a versão antiga, etc. 
 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
+| `2.1` | 05/07/2025 | Arrumei a questão de enumeração e linkagem especificamente dos requisitos RF06.1 ao RF07.1, RNF06, RNF07 e RNF14.
+| [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) |

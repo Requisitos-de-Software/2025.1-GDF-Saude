@@ -37,7 +37,7 @@ Na tabela 1 contêm todos os integrantes da equipe que participaram no refinamen
             </tr>
             <tr>
                 <td><a href="https://github.com/matheusdealcantara">Matheus de Alcântara</a></td>
-                <td>Adição dos requisitos <a href="#RF06.1">RF06.1</a> a <a href="#RF06.5">RF06.5</a>, <a href="#RNF06">RNF06</a>, <a href="#RNF07">RNF07</a> e <a href="#RNF14">RNF14</a> na matriz geral.</td>
+                <td>Adição dos requisitos <a href="#RF06.1">RF06.1</a> ao <a href="#RF07.1">RF07.1</a>, <a href="#RNF06">RNF06</a>, <a href="#RNF07">RNF07</a> e <a href="#RNF14">RNF14</a> na matriz geral.</td>
             </tr>
             <tr>
                 <td><a href="https://github.com/bolzanMGB">Othavio Bolzan</a></td>
@@ -209,3 +209,4 @@ SERRANO, Milene; SERRANO, Maurício. Slides da Aula 26: Requisitos de Software. 
 | `1.5` | 08/06/2025 | Adicionou os requisitos RF07.2 a RF9.2 e RNF8, RNF9 e RNF15 na matriz de rastreabilidade | [Othavio Bolzan](https://github.com/bolzanMGB) | [Lucas Alves](https://github.com/LucasAlves71) |
 | `1.6` | 02/07/2025 | Arrumando os meus requisitos | [Isaque Camargos](https://github.com/isaqzin) | [Lucas Alves](https://github.com/LucasAlves71) |
 | `2.0` | 05/07/2025 | Ajustando a tabela para requisitos funcionais e não funcionais, além disso mexi em um monte de coisa que daria um livro para descrever. | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
+| `2.1` | 05/07/2025 | Ajustando a tabela para os requisitos RF06.1 ao RF07.1, RNF06, RNF07 e RNF14 | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) |

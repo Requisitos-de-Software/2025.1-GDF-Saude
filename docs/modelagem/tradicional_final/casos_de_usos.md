@@ -95,7 +95,7 @@ As figuras 1 a 7 representam as especializações dos casos de uso.
 
 <p align="center">Figura 2 - Caso de uso UC07 a UC12 </p>
 <p align="center">
-  <img src="..\..\assets\casos-uso\new_diagrama_isaque.png" alt="Heatmap de disponibilidade da equipe" width="600">
+  <img src="..\..\assets\casos-uso\new_diagrama_isaque2.png" alt="Heatmap de disponibilidade da equipe" width="600">
 </p>
 
 <p align="center">Fonte: Autoria de <a src="https://github.com/isaqzin" targe="_blank">Isaque Camargos</a></p>

@@ -144,6 +144,7 @@ nav:
       - Facilidades e Dificuldades: entrega_final/facilidades_dificuldades.md
       - Resultados Alcançados: entrega_final/resultados_alcancados.md
       - Execução do projeto: entrega_final/execucao.md
-          
+      - Tecnicas Utilizadas: entrega_final/tecnicas_utilizadas.md
+
 extra_css:
   - stylesheets/extra.css

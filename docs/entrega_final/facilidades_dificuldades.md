@@ -43,7 +43,7 @@ Na tabela 1 contêm todos os integrantes da equipe que participaram no desenvolv
 
 ### Facilidades 
 
-Não tive.
+A comunicação com o grupo foi uma facilidade, já conhecia todos do meu grupo e isso facilitou a comunicação.
 
 ### Dificuldades 
 
