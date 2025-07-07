@@ -150,8 +150,8 @@ nav:
       - Tecnicas Utilizadas: entrega_final/tecnicas_utilizadas.md
       - Artefatos Criados: entrega_final/artefatos_criados.md
       - Verificação e Validação: 
-            - Entrega 4: inspecao/inspecao_final/inspecao_final_4_grupo+1.md
-            - Entrega 6: inspecao/inspecao_final/inspecao_final_6_grupo+1.md
+            - Verificação: entrega_final/verificacao.md
+            - Validação: entrega_final/validacacao.md
             
 extra_css:
   - stylesheets/extra.css
