@@ -125,6 +125,17 @@ Outro ponto importante é que, mesmo sendo um trabalho em grupo com notas indivi
 
 Portanto, o projeto foi marcado por incertezas constantes e falta de clareza nas orientações, evidenciando problemas na estrutura externa de comunicação, e não, somente, na equipe. As demandas excessivas sobrecarregaram o grupo, afetando outras disciplinas e tornando a experiência particularmente desgastante.
 
+## Kaleb Macedo
+### Facilidades 
+
+Não tive.
+
+### Dificuldades
+
+Ao longo deste projeto, enfrentei desafios significativos que impactaram minha experiência e produtividade. Uma das maiores barreiras foi a exigência de que as reuniões e validações fossem obrigatoriamente presenciais. Essa obrigatoriedade tornou a logística extremamente complicada, pois conciliar os horários de todos os membros da equipe, cada um com suas próprias rotinas e compromissos, foi uma tarefa desgastante e muitas vezes frustrante.
+
+Essa dificuldade logística se somou a uma sensação de desorganização geral no projeto. As datas e os prazos nem sempre eram claros, e a quantidade de tarefas pequenas e excessivamente detalhistas era enorme. O que poderia ser um desafio interessante de aprendizado, em muitos momentos, transformou-se em um processo chato e complicado. A necessidade de gerenciar tantos detalhes e barreiras logísticas acabou tirando o foco do conteúdo principal e tornou a experiência, em grande parte, frustrante.
+
 
 ## Histórico de Versões
 
@@ -135,3 +146,4 @@ Portanto, o projeto foi marcado por incertezas constantes e falta de clareza nas
 | `1.2` | 04/07/2025 | Adição das facilidades e dificuldades do Matheus | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Yzabella Miranda](https://github.com/redjsun) |
 | `1.3` | 05/07/2025 | Adição das facilidades e dificuldades da Yzabella | [Yzabella Miranda](https://github.com/redjsun) | [Matheus de Alcântara](https://github.com/matheusdealcantara)
 | `1.4` | 07/07/2025 | Adição das facilidades e dificuldades Othavio | [Othavio Bolzan](https://github.com/bolzanMGB) |  [Ana Luiza](https://github.com/Ana-Luiza-SC) |
+| `1.5` | 07/07/2025 | Adição das facilidades e dificuldades Kaleb | [Kaleb Macedo](https://github.com/kalebmacedo) |  [Lucas Alves](https://github.com/LucasAlves71) |
