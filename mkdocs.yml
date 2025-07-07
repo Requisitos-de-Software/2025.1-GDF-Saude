@@ -151,7 +151,7 @@ nav:
       - Artefatos Criados: entrega_final/artefatos_criados.md
       - Verificação e Validação: 
             - Verificação: entrega_final/verificacao.md
-            - Validação: entrega_final/validacacao.md
+            - Validação: entrega_final/validacao.md
             
 extra_css:
   - stylesheets/extra.css
