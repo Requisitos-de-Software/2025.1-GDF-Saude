@@ -63,11 +63,6 @@ Os vídeos estão armazenados como **não listados no YouTube** e podem ser disp
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0sZYfxjpOUU?si=WiTc0xZijlZpqtZu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
-
-### Reunião 10 – Alinhamento sobre a Entrega Final 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LudFguVtv6U?si=5Vd1PyKX0Vrek3wl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
