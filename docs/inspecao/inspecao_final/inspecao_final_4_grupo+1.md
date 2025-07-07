@@ -105,7 +105,7 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 
 ## Gravação da Inspeção do Grupo+1
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5KdERmve92Y?si=M3Ap3dIHKguYNkzm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P56f6-QysW8?si=ucTCWYQaJKUE1k4l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Referências Bibliográficas
 
