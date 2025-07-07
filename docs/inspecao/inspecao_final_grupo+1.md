@@ -64,7 +64,9 @@ Na tabela 1 contêm todos os integrantes da equipe que participaram no refinamen
 
 ## Gravação da Reunião de Inspeção
 
+Segue abaixo a gravação da inspeção final dos integrantes do grupo, geral do grupo e da entrega 1 do grupo+1, realizada no dia **25 de junho de 2025**:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CCshA4S0ld8?si=cvnhlMEtWePywBjC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Segue abaixo a gravação da inspeção final da entrega 2 do grupo +1, realizada no dia **06 de julho de 2025**:
