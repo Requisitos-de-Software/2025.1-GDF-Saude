@@ -15,10 +15,8 @@ Abaixo estão os links para os planejamentos e listas de verificação das entre
 - [Entrega 5](../verificacao/lista_de_VerificacaoEntrega5.md)
 - [Entrega 6](../verificacao/lista_de_VerificacaoEntrega6.md)
 
-<center>
 
-<details>
-<summary>Tabela 1: Artefatos verificados na Entrega 1</summary>
+Tabela 1: Artefatos verificados na Entrega 1
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
@@ -26,10 +24,9 @@ Abaixo estão os links para os planejamentos e listas de verificação das entre
 | [Lista de Apps Avaliados](../planejamento/aplicativos-avaliados.md) | Lucas Alves, Isaque Camargos | Yzabella Miranda, Ana Luiza Soares |
 | [Rich Picture](../planejamento/aplicativo.md) | Kaleb Macedo, Isaque Camargos | Ana Luiza Soares, Kaleb Macedo |
 | [Cronograma](../planejamento/Cronograma.md) | Ana Luiza Soares | Matheus de Alcântara |
-</details>
 
-<details>
-<summary>Tabela 2: Artefatos verificados na Entrega 2</summary>
+
+Tabela 2: Artefatos verificados na Entrega 2
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
@@ -42,10 +39,10 @@ Abaixo estão os links para os planejamentos e listas de verificação das entre
 | [Introspecção](../elicitacao/tecnicas/introspeccao.md) | Lucas Alves, Othavio Bolzan | Kaleb Macedo |
 | [Priorização $100](../elicitacao/priorizacao/dolares100.md) | Ana Luiza Soares, Yzabella Miranda, Matheus de Alcântara, Othavio Bolzan | Kaleb Macedo |
 | [Priorização MoSCoW](../elicitacao/priorizacao/moscow.md) | Lucas Alves, Kaleb Macedo | - |
-</details>
 
-<details>
-<summary>Tabela 3: Artefatos verificados na Entrega 3</summary>
+
+
+Tabela 3: Artefatos verificados na Entrega 3
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
@@ -54,20 +51,20 @@ Abaixo estão os links para os planejamentos e listas de verificação das entre
 | [Casos de Uso](../modelagem/metodos_tradicionais/casos_de_uso.md) | Todos os membros | - |
 | [Validação dos Casos de Uso](../modelagem/metodos_tradicionais/validacao_caso_uso.md) | Ana Luiza Soares | Isaque Camargos |
 | [Especificação Suplementar](../modelagem/metodos_tradicionais/especificacao-suplementar.md) | Todos os membros | Ana Luiza Soares, Kaleb Macedo, Lucas Alves, Isaque Camargos, Matheus de Alcântara |
-</details>
 
-<details>
-<summary>Tabela 4: Artefatos verificados na Entrega 4</summary>
+
+
+Tabela 4: Artefatos verificados na Entrega 4
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
 | [Backlog](../modelagem/metodos_ageis/backlog.md) | Isaque Camargos, Matheus de Alcântara, Lucas Alves | Kaleb Macedo |
 | [Histórias de Usuário](../modelagem/metodos_ageis/historias_todos02.md) | Todos os membros | Isaque Camargos, Matheus de Alcântara, Kaleb Macedo, Lucas Alves |
 | [NFR Framework](../modelagem/metodos_tradicionais/nfr_framework.md) | Todos os membros | Ana Luiza Soares, Kaleb Macedo, Lucas Alves, Isaque Camargos, Matheus de Alcântara |
-</details>
 
-<details>
-<summary>Tabela 5: Artefatos verificados na Entrega 5</summary>
+
+
+Tabela 5: Artefatos verificados na Entrega 5
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
@@ -75,17 +72,16 @@ Abaixo estão os links para os planejamentos e listas de verificação das entre
 | [Verificação da Entrega 2](../verificacao/lista_de_VerificacaoEntrega2.md) | Lucas Alves | Isaque Camargos, Matheus de Alcântara |
 | [Verificação da Entrega 3](../verificacao/lista_de_verificacaoEntrega3.md) | Lucas Alves, Kaleb Macedo | Ana Luiza Soares, Yzabella Miranda |
 | [Verificação da Entrega 4](../verificacao/lista_de_verificacaoEntrega4.md) | Isaque Camargos, Othavio Bolzan | Lucas Alves |
-</details>
 
-<details>
-<summary>Tabela 6: Artefatos verificados na Entrega 6</summary>
+
+
+Tabela 6: Artefatos verificados na Entrega 6
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
 | [Verificação da Entrega 6](../verificacao/lista_de_VerificacaoEntrega6.md) | Yzabella Miranda | Ana Luiza Soares |
-</details>
 
-</center>
+
 
 ## Referências Bibliográficas
 
