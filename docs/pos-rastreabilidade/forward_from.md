@@ -7,7 +7,7 @@ Este documento apresenta a execução da rastreabilidade forward-from no nosso p
 
 ## Tabela de Integrantes
 
-Na tabela 1 contêm todos os integrantes da equipe que participaram no refinamento dos requisitos e o que a pessoa desenvolveu.
+Na tabela 1 contêm todos os integrantes da equipe que participaram no desenvolvimento do artefato e o que a pessoa desenvolveu.
 
 <p align="center">Tabela 1 - Integrantes do grupo envolvidos</p>
 
@@ -54,7 +54,7 @@ Na tabela 1 contêm todos os integrantes da equipe que participaram no refinamen
 
 <p  align="center">Fonte: Autoria de <a  href="https://github.com/isaqzin">Isaque Camargos</a>, <a  href="https://github.com/redjsun">Yzabella Miranda</a>, <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a>, <a href="https://github.com/kalebmacedo">Kaleb Macedo</a> e <a href="https://github.com/bolzanMGB">Othavio Bolzan</a></p>
 
-Metodologia
+### Metodologia
 A Metodologia adotada para esta análise fundamenta-se no Meta-modelo de Toranzo, conforme descrito nos materiais da disciplina ([slides da Aula 26](../assets/aula26-milene-modelagem.pdf)). Este modelo organiza as informações rastreáveis em níveis hierárquicos e define elos que representam as relações entre artefatos envolvidos no desenvolvimento de sistemas.
 
 #### Níveis de Informação
@@ -290,10 +290,7 @@ SERRANO, Milene; SERRANO, Maurício. **Slides da Aula 26 - Requisitos de Softwar
 | `1.5` | 08/06/2025 | Realizou a rastreabilidade forward-from para os requisitos <a href="#FF28">FF28</a> a <a href="#FF34">FF34</a>, <a href="#FF64">FF64</a>, <a href="#FF65">FF65</a> e <a href="#FF71">FF71</a>. | [Othavio Bolzan](https://github.com/bolzanMGB) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
 | `1.6` | 08/06/2025 | Corrigiu os caminhos e links dos artefatos em toda a documentação. | [Yzabella Miranda](https://github.com/redjsun) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
 | `1.7` | 08/06/2025 | Realizou a rastreabilidade para os requisitos <a href="#FF01">FF01</a> a <a href="#FF07">FF07</a>, <a href="#FF57">FF57</a>, <a href="#FF58">FF58</a> e corrigiu a numeração de todos os IDs. | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
-| `1.8` | 22/06/2025 | Atualizou a rastreabilidade dos requisitos RF09.3, RF09.4, RF10, RF11, RF12.1, RF12.2, RF12.3, RNF10 e RNF11.
-| [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
+| `1.8` | 22/06/2025 | Atualizou a rastreabilidade dos requisitos RF09.3, RF09.4, RF10, RF11, RF12.1, RF12.2, RF12.3, RNF10 e RNF11.| [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
 |`1.9`|02/07/2025 | Arrumando os meus requisitos | [Isaque Camargos](https://github.com/isaqzin) | [Lucas Alves](https://github.com/LucasAlves71) |
-| `2.0` | 05/07/2025 | Arrumei questão de requisito faltante e requisito inexistente com descrição que não batia com o requisito final, arrumei a questão da enumeração, arrumei a questão de enumeração, questao de link para a os métodos tradicionais, pois estava indo para a versão antiga, etc. 
-| [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
-| `2.1` | 05/07/2025 | Arrumei a questão de enumeração e linkagem especificamente dos requisitos RF06.1 ao RF07.1, RNF06, RNF07 e RNF14.
-| [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) |
+| `2.0` | 05/07/2025 | Arrumei questão de requisito faltante e requisito inexistente com descrição que não batia com o requisito final, arrumei a questão da enumeração, arrumei a questão de enumeração, questao de link para a os métodos tradicionais, pois estava indo para a versão antiga, etc. | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
+| `2.1` | 05/07/2025 | Arrumei a questão de enumeração e linkagem especificamente dos requisitos RF06.1 ao RF07.1, RNF06, RNF07 e RNF14.| [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) |

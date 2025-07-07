@@ -9,7 +9,7 @@ Para aplicar este conceito de forma sistemática no projeto GDF Saúde, é neces
 
 ## Tabela de Integrantes
 
-Na tabela 1 contêm todos os integrantes da equipe que participaram no refinamento dos requisitos e o que a pessoa desenvolveu.
+Na tabela 1 contêm todos os integrantes da equipe que participaram no desenvolvimento do artefato e o que a pessoa desenvolveu.
 
 <p align="center">Tabela 1 - Integrantes do grupo envolvidos</p>
 

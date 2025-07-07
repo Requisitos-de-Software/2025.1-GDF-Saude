@@ -48,9 +48,13 @@ A comunicação com o grupo foi uma facilidade, já conhecia todos do meu grupo 
 ### Dificuldades 
 
 A maior dificuldade que enfrentei foi lidar com o grande volume de artefatos a serem produzidos, refeitos e organizados. Conciliar essas demandas com a gestão do meu tempo foi extremamente desafiador, o que afetou profundamente minha saúde mental e o meu desempenho acadêmico.
+
 Além disso, tive muita dificuldade em compreender o que precisava ser feito. A cada aula surgiam novas tarefas, correções ou mudanças de direção que, muitas vezes, não estavam claras para mim. Isso gerava frustração constante, pois eu sentia que nunca estava realmente no controle do que precisava ser entregue ou que nunca era o suficiente.
+
 Outro ponto desafiador foi a revisão dos artefatos e, de certa forma, assumir uma postura de liderança ao lado da Ana Luiza. No início do projeto, identifiquei muitos documentos com problemas sérios. Quando eu não os corrigia diretamente, precisava revisar o conteúdo, identificar os erros e comunicar aos responsáveis para que fizessem os ajustes. No entanto, esse processo raramente se resolvia de primeira — muitas vezes, eu precisava revisar e apontar os mesmos problemas diversas vezes, repetindo esse ciclo até que o material finalmente alcançasse um nível minimamente aceitável de qualidade.
+
 No entanto, conforme o projeto foi avançando eu entendi que a nota era individual e que continuar nesse ciclo me desgastaria demais. Por isso, optei por me afastar um pouco dessas responsabilidades no final, como uma forma de preservar minha saúde mental.
+
 Reconheço que meu relato pode transmitir um certo viés, resultado da intensidade e do impacto que essa experiência teve sobre mim. Ainda assim, escolhi ser honesto e registrar todas as dificuldades que realmente enfrentei ao longo do projeto.
 
 
