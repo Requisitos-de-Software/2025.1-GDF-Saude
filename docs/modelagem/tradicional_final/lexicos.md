@@ -928,7 +928,7 @@ O termo "Segurança de Dados" refere-se às medidas de proteção para informaç
 
 | Termo | Tipo | Sinônimos | Noção | Impacto | Requisitos |
 | --- | --- | --- | --- | --- | --- |
-| Segurança de Dados | Objeto | Proteção de Dados | Conjunto de medidas técnicas, como criptografia e autenticação de dois fatores, implementadas para proteger os dados pessoais e de saúde dos [beneficiários](./lexicos.md#LX01) contra acessos não autorizados. | Assegura a confidencialidade e a integridade das informações do usuário, em conformidade com a LGPD, e aumenta a confiança no uso do aplicativo. | [RNF03.1](../../elicitacao/requisitos_finais.md#RNF03.1), [RNF03.2](../../elicitacao/requisitos_finais.md#RNF03.2) |
+| Segurança de Dados | Objeto | Proteção de Dados | Conjunto de medidas técnicas, como criptografia e autenticação de dois fatores, implementadas para proteger os dados pessoais e de saúde dos [beneficiários](./lexicos.md#LX01) contra acessos não autorizados. | Assegura a confidencialidade e a integridade das informações do usuário, em conformidade com a LGPD, e aumenta a confiança no uso do aplicativo. | [RNF03.1.1](../../elicitacao/requisitos_finais.md#RNF03.1.1), [RNF03.2.1](../../elicitacao/requisitos_finais.md#RNF03.2.1) |
 
 <p align="center">Fonte: Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a></p>
 

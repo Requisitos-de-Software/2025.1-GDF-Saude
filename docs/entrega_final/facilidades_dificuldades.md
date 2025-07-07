@@ -28,6 +28,10 @@ Na tabela 1 contêm todos os integrantes da equipe que participaram no desenvolv
                 <td><a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a></td>
                 <td>Adicionou os seus relatos de dificuldado e facilidade em relação a disciplina.  </td>
             </tr>
+            <tr>
+                <td><a href="https://github.com/redjsun">Yzabella Miranda</a></td>
+                <td>Adicionou os seus relatos de dificuldado e facilidade em relação a disciplina.  </td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -72,10 +76,42 @@ Todos os pontos mencionados impactaram meu desempenho na disciplina e minha expe
 - Criar listas de verificação específicas, detalhando o que será cobrado e evitando mudanças frequentes, por exemplo, se a modelagem exige 6 requisitos e ao menos 2 não implementados, isso deve ser claro na lista de verificação, pois se refere ao que será avaliado na nota.
 - Transmitir mensagens mais claras, se algo é apenas recomendado, deve ser comunicado como tal. Se for obrigatório, a mensagem desde o início deve ser de que é obrigatório ou que será cobrado.
 
+## Matheus de Alcântara
+
+### Facilidades
+
+Algumas facilidades que encontrei foi a adaptação à sintaxe do Markdown e escrita dos documentos.
+
+### Dificuldades
+
+Desde o início do projeto, enfrentei dificuldades para o entendimento do que deveria ser desenvolvido dentro de cada artefato, principalmente pelas mudanças constantes e algumas divergências entre o que era comunicado em aula e o que estava documentado no plano de ensino. Isso gerou uma certa confusão, pois não havia clareza sobre o que era obrigatório e o que era opcional, levando a retrabalhos frequentes, por exemplo, houveram entregas onde a correção do professor exigia muito mais itens do que estava documentado e que foi falado em aula. 
+
+Além disso, também tive dificuldade em conciliar as demandas do projeto com outras disciplinas e atividades fora da faculdade, principalmente porque a faculdade possui período integral e as aulas ocorrem em horários variados, o que torna difícil organizar o tempo para atender a todas as demandas, com isso, diversas vezes me atrasei para algumas reuniões, além de ter dificuldade em encontrar horários para realizar as gravações presenciais com os usuários do GDF Saúde, isso sem contar com a dificuldade em encontrar usuários do aplicativo em si.
+
+Portanto, a falta de clareza nas informações, a ausência de um modelo de como as coisas deveriam ser feitas e a carência de uma documentação fixa do que deveria ser entregue causaram muito problema para todo o grupo. Isso afeta nosso tempo de estudo e organização para outras matérias, causando estresse, ansiedade e frustação em relação à disciplina.
+
+## Yzabella Miranda
+
+### Facilidades
+
+O aprendizado de como utilizar a sintaxe do MarkDown é um dos principais pontos, senão o único, que visualizei como um fator facilitador. Também, podendo ser possível, acrescentar repositório de trabalhos anteriores, que auxiliaram em um direcionamento mais apurado do que deveria ser feito.
+
+### Dificuldades
+
+A princípio, o projeto parecia incerto e, no fim, a incerteza persistiu. Durante todo o percurso, tive dúvidas sobre o que e como deveria ser feito. Muitas vezes, precisei refletir várias vezes até perceber que, ainda assim, não sabia o que fazer. As informações confusas vinham tanto das inconsistências das explicações de aula, do plano de ensino não atualizado e do monitoramento. Começamos o projeto sendo chamados de preguiçosos, mas a verdade é que a orientação sobre a divisão do trabalho foi totalmente ambígua. Esse problema de informações erradas, incompletas ou incertas continuou até o último dia de entrega, e em vez de melhorar, só piorou. Para mim, não faz sentido sete pessoas receberem uma tarefa e ninguém entender. Isso mostra que o problema não era interno, mas sim externo.
+
+Além disso, as demandas intensas no início e meio do projeto me deixaram em uma situação delicada, sem saber como equilibrar tudo, o que resultou em uma situação crítica em algumas matérias. É como se a disciplina fosse de 60 horas, mas a cobrança fosse dobrada. A necessidade de ir constantemente atrás de pessoas para gravações tornou a experiência desagradável e, às vezes, constrangedora.
+
+Outro ponto importante é que, mesmo sendo um trabalho em grupo com notas individuais, ainda dependemos de todos para que dê certo. Isso cria uma situação em que alguém sempre acaba sobrecarregado, seja tendo que fazer algo do zero ou refazer/corrigir algo feito com pouco cuidado.
+
+Portanto, o projeto foi marcado por incertezas constantes e falta de clareza nas orientações, evidenciando problemas na estrutura externa de comunicação, e não, somente, na equipe. As demandas excessivas sobrecarregaram o grupo, afetando outras disciplinas e tornando a experiência particularmente desgastante.
 
 
+## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
 | `1.0` | 02/07/2025 | Adição das facilidades e dificulades do Isaque | [Isaque Camargos](https://github.com/isaqzin) | [Ana Luiza](https://github.com/Ana-Luiza-SC) |
 | `1.1` | 03/07/2025 | Adição das facilidades e dificulades da Ana Luiza | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Isaque Camargos](https://github.com/isaqzin) |
+| `1.2` | 04/07/2025 | Adição das facilidades e dificuldades do Matheus | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Yzabella Miranda](https://github.com/redjsun) |
+| `1.3` | 05/07/2025 | Adição das facilidades e dificuldades da Yzabella | [Yzabella Miranda](https://github.com/redjsun) | [Matheus de Alcântara](https://github.com/matheusdealcantara)
