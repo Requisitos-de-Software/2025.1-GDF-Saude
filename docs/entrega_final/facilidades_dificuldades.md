@@ -19,6 +19,8 @@ Na tabela 1 contêm todos os integrantes da equipe que participaram no desenvolv
                 <th>Quais etapas participou</th>
             </tr>
         </thead>
+    </table>
+    <table>
         <tbody>
             <tr>
                 <td><a href="https://github.com/isaqzin">Isaque Camargos</a></td>
@@ -36,8 +38,11 @@ Na tabela 1 contêm todos os integrantes da equipe que participaram no desenvolv
                 <td><a href="https://github.com/redjsun">Yzabella Miranda</a></td>
                 <td>Adicionou os seus relatos de dificuldado e facilidade em relação a disciplina.  </td>
             </tr>
+            <tr>
+                <td><a href="https://github.com/LucasAlves71">Lucas Alves</a></td>
+                <td>Adicionou os seus relatos de dificuldado e facilidade em relação a disciplina.  </td>
+            </tr>
         </tbody>
-        
     </table>
 </div>
 
@@ -136,6 +141,16 @@ Ao longo deste projeto, enfrentei desafios significativos que impactaram minha e
 
 Essa dificuldade logística se somou a uma sensação de desorganização geral no projeto. As datas e os prazos nem sempre eram claros, e a quantidade de tarefas pequenas e excessivamente detalhistas era enorme. O que poderia ser um desafio interessante de aprendizado, em muitos momentos, transformou-se em um processo chato e complicado. A necessidade de gerenciar tantos detalhes e barreiras logísticas acabou tirando o foco do conteúdo principal e tornou a experiência, em grande parte, frustrante.
 
+## Lucas Alves
+### Facilidades 
+
+Não tive facilidades ao longo do projeto.
+
+### Dificuldades
+
+O projeto foi bastante desafiador para mim, pois precisei conciliar o estágio, a vida pessoal e as demais disciplinas da faculdade com o grande volume de tarefas e entregas exigidas por esta matéria. Além disso, não tinha muita familiaridade com a sintaxe do Markdown, o que me demandou um tempo extra de aprendizado ao longo do projeto e acabou impactando o tempo dedicado às outras matérias do semestre. Reconheço que também faltou um pouco de organização da minha parte para lidar com todas essas demandas.
+
+Outra dificuldade recorrente foi compreender exatamente o que deveria ser entregue em cada etapa, já que a cada nova entrega surgiam mais cobranças e exigências. A comunicação limitada com os demais membros do grupo também dificultou o alinhamento e a execução das atividades.
 
 ## Histórico de Versões
 
@@ -144,6 +159,7 @@ Essa dificuldade logística se somou a uma sensação de desorganização geral 
 | `1.0` | 02/07/2025 | Adição das facilidades e dificulades do Isaque | [Isaque Camargos](https://github.com/isaqzin) | [Ana Luiza](https://github.com/Ana-Luiza-SC) |
 | `1.1` | 03/07/2025 | Adição das facilidades e dificulades da Ana Luiza | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Isaque Camargos](https://github.com/isaqzin) |
 | `1.2` | 04/07/2025 | Adição das facilidades e dificuldades do Matheus | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Yzabella Miranda](https://github.com/redjsun) |
-| `1.3` | 05/07/2025 | Adição das facilidades e dificuldades da Yzabella | [Yzabella Miranda](https://github.com/redjsun) | [Matheus de Alcântara](https://github.com/matheusdealcantara)
+| `1.3` | 05/07/2025 | Adição das facilidades e dificuldades da Yzabella | [Yzabella Miranda](https://github.com/redjsun) | [Matheus de Alcântara](https://github.com/matheusdealcantara)|
 | `1.4` | 07/07/2025 | Adição das facilidades e dificuldades Othavio | [Othavio Bolzan](https://github.com/bolzanMGB) |  [Ana Luiza](https://github.com/Ana-Luiza-SC) |
 | `1.5` | 07/07/2025 | Adição das facilidades e dificuldades Kaleb | [Kaleb Macedo](https://github.com/kalebmacedo) |  [Lucas Alves](https://github.com/LucasAlves71) |
+| `1.6` | 07/07/2025 | Adição das facilidades e dificuldades Lucas | [Lucas Alves](https://github.com/LucasAlves71) |  [Kaleb Macedo](https://github.com/kalebmacedo) |

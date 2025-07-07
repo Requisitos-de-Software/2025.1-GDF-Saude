@@ -89,21 +89,21 @@ A abordagem selecionada para esta verificação é uma versão adaptada da técn
 <font size="3"><p style="text-align: center">Fonte: [Isaque Camargos](https://github.com/isaqzin) e [Othavio Bolzan](https://github.com/bolzanMGB) </p></font>
 
 
-## Lista de Verificação - Casos de Uso
+## Lista de Verificação - Casos de Uso  
 
 
 <p align="center">Tabela 4 – Lista de verificação Casos de Uso</p>
 
 | ID | Item de Verificação | Autor | Referência |
 |----|----------------------|-------|------------|
-| 1 |A generalização está representada por uma linha sólida que sai do especializado para o geral ?|[Isaque Camargos](https://github.com/isaqzin)|<div><img src="..\..\assets\lventrega3\casosusoisaque.png" alt="Referência do item" width="100px"><br><a href="https://www.youtube.com/watch?v=ab6eDdwS3rA">Tutorial de Caso de Uso UML</a></div>|
-| 2 |A inclusão está representada por uma linha pontilhada que sai da base para o incluído ?|[Isaque Camargos](https://github.com/isaqzin)|<div><img src="..\..\assets\lventrega3\casosusoisaque.png" alt="Referência do item" width="100px"><br><a href="https://www.youtube.com/watch?v=ab6eDdwS3rA">Tutorial de Caso de Uso UML</a></div>|
-| 3 |Os atores estão posicionados fora do sistema?|[Ana Luiza Soares](https://github.com;Ana-Luiza-SC)  |<a href="https://www.youtube.com/watch?v=ab6eDdwS3rA.">CANAL DESIGN DE SERVIÇO</a></div>|
-| 4 |Os relacionamentos entre atores e casos de uso estão definidos e claros? ?|[Kaleb Macedo](https://github.com/kalebmacedo) |<div><img src="..\..\assets\lventrega3\casoKaleb.png" alt="Referência do item" width="100px"><br><a href="https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml">Lucid Chart</a></div>|
-| 5 | Relacionamentos de inclusão e extensão são utilizados adequadamente?|[Lucas Alves](https://github.com/LucasAlves71)  |<a href="https://www.youtube.com/watch?v=ab6eDdwS3rA.">CANAL DESIGN DE SERVIÇO</a></div>|
-| 6 |Todos atores estão relacionados com pelo menos um caso de uso?|[Matheus de Alcântara](https://github.com/matheusdealcantara) |<a href="https://www.youtube.com/watch?v=ab6eDdwS3rA.">CANAL DESIGN DE SERVIÇO</a></div>|
-| 7 |Os casos de uso usam verbos que expressam ações? |[Othavio Bolzan](https://github.com/bolzanMGB) |<a href="https://www.youtube.com/watch?v=ab6eDdwS3rA.">CANAL DESIGN DE SERVIÇO</a></div>|
-| 8 |O nome do sistema está exibido no topo?|[Yzabella Miranda](https://github.com/redjsun)|<a href="https://www.youtube.com/watch?v=ab6eDdwS3rA.">CANAL DESIGN DE SERVIÇO</a></div>|
+| 1 |A generalização está representada por uma linha sólida que sai do especializado para o geral?|[Isaque Camargos](https://github.com/isaqzin)|<div><img src="..\..\assets\lventrega3\casosusoisaque.png" alt="Referência do item" width="100px"><br><a href="https://www.youtube.com/watch?v=ab6eDdwS3rA&t=669s" target="_blank">Tutorial de Caso de Uso UML (11:09)</a></div>|
+| 2 |A inclusão está representada por uma linha pontilhada que sai da base para o incluído?|[Isaque Camargos](https://github.com/isaqzin)|<div><img src="..\..\assets\lventrega3\casosusoisaque.png" alt="Referência do item" width="100px"><br><a href="https://www.youtube.com/watch?v=ab6eDdwS3rA&t=486s" target="_blank">Tutorial de Caso de Uso UML (08:06)</a></div>|
+| 3 |Os atores estão posicionados fora do sistema?|[Ana Luiza Soares](https://github.com;Ana-Luiza-SC)  |<a href="https://www.youtube.com/watch?v=ab6eDdwS3rA&t=167s" target="_blank">CANAL DESIGN DE SERVIÇO (02:47)</a></div>|
+| 4 |Os relacionamentos entre atores e casos de uso estão definidos e claros?|[Kaleb Macedo](https://github.com/kalebmacedo) |<div><img src="..\..\assets\lventrega3\casoKaleb.png" alt="Referência do item" width="100px"><br><a href="https://www.youtube.com/watch?v=ab6eDdwS3rA&t=313s" target="_blank">Tutorial de Caso de Uso UML (05:13)</a></div>|
+| 5 | Relacionamentos de inclusão e extensão são utilizados adequadamente?|[Lucas Alves](https://github.com/LucasAlves71)  |<a href="https://www.youtube.com/watch?v=ab6eDdwS3rA&t=449s" target="_blank">CANAL DESIGN DE SERVIÇO (07:29)</a></div>|
+| 6 |Todos atores estão relacionados com pelo menos um caso de uso?|[Matheus de Alcântara](https://github.com/matheusdealcantara) |<a href="https://www.youtube.com/watch?v=ab6eDdwS3rA&t=317s" target="_blank">CANAL DESIGN DE SERVIÇO (05:17)</a></div>|
+| 7 |Os casos de uso usam verbos que expressam ações?|[Othavio Bolzan](https://github.com/bolzanMGB) |<a href="https://www.youtube.com/watch?v=ab6eDdwS3rA&t=290s" target="_blank">CANAL DESIGN DE SERVIÇO (04:50)</a></div>|
+| 8 |O nome do sistema está exibido no topo?|[Yzabella Miranda](https://github.com/redjsun)|<a href="https://www.youtube.com/watch?v=ab6eDdwS3rA&t=108s" target="_blank">CANAL DESIGN DE SERVIÇO (01:48)</a></div>|
 
 <font size="3"><p style="text-align: center">Fonte: [Isaque Camargos](https://github.com/isaqzin) e [Othavio Bolzan](https://github.com/bolzanMGB) </p></font>
 
