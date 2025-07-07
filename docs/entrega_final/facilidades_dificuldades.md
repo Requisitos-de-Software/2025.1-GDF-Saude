@@ -159,7 +159,7 @@ Outra dificuldade recorrente foi compreender exatamente o que deveria ser entreg
 | `1.0` | 02/07/2025 | Adição das facilidades e dificulades do Isaque | [Isaque Camargos](https://github.com/isaqzin) | [Ana Luiza](https://github.com/Ana-Luiza-SC) |
 | `1.1` | 03/07/2025 | Adição das facilidades e dificulades da Ana Luiza | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Isaque Camargos](https://github.com/isaqzin) |
 | `1.2` | 04/07/2025 | Adição das facilidades e dificuldades do Matheus | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Yzabella Miranda](https://github.com/redjsun) |
-| `1.3` | 05/07/2025 | Adição das facilidades e dificuldades da Yzabella | [Yzabella Miranda](https://github.com/redjsun) | [Matheus de Alcântara](https://github.com/matheusdealcantara)
+| `1.3` | 05/07/2025 | Adição das facilidades e dificuldades da Yzabella | [Yzabella Miranda](https://github.com/redjsun) | [Matheus de Alcântara](https://github.com/matheusdealcantara)|
 | `1.4` | 07/07/2025 | Adição das facilidades e dificuldades Othavio | [Othavio Bolzan](https://github.com/bolzanMGB) |  [Ana Luiza](https://github.com/Ana-Luiza-SC) |
 | `1.5` | 07/07/2025 | Adição das facilidades e dificuldades Kaleb | [Kaleb Macedo](https://github.com/kalebmacedo) |  [Lucas Alves](https://github.com/LucasAlves71) |
 | `1.6` | 07/07/2025 | Adição das facilidades e dificuldades Lucas | [Lucas Alves](https://github.com/LucasAlves71) |  [Kaleb Macedo](https://github.com/kalebmacedo) |
