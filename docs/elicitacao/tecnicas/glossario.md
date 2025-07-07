@@ -146,7 +146,7 @@ A análise sistemática dos termos do glossário permitiu identificar 14 requisi
 | <a id="GL11"></a>GL11  | Manter sistema disponível 24/7 para autorizações de urgência/emergência.                                                      | [RNF04](../../elicitacao/elicitacao.md#RNF04)      |        sim          |
 | <a id="GL12"></a>GL12  | Criptografar dados sensíveis (ex.: documentos) conforme LGPD.                                                                 | [RNF03](../../elicitacao/elicitacao.md#RNF03)      |        sim          |
 | <a id="GL13"></a>GL13  | Processar autorizações prévias em até 10 dias úteis (conforme prazos do Capítulo VI).                                         | [RNF08](../../elicitacao/elicitacao.md#RNF08)      |         sim         |
-| <a id="GL14"></a>GL14  | Comunicar-se com a folha de pagamento do GDF para descontos de mensalidades.                                                  | [RNF09](../../elicitacao/elicitacao.md#RNF09)      |        sim          |
+| <a id="GL14"></a>GL14  | O sistema deve enviar, mensalmente, até o dia 5 de cada mês, as informações de desconto dos beneficiários para a folha de pagamento do GDF e registrar o status de sucesso ou falha da operação.                             | [RNF09](../../elicitacao/elicitacao.md#RNF09)      |        sim          |
 
 
 <p align="center">Fonte: Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a> e <a href="https://github.com/redjsun">Yzabella Miranda</a></p>

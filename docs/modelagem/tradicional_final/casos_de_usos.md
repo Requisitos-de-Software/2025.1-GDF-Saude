@@ -45,11 +45,11 @@ Na tabela 1 contêm todos os integrantes da equipe que participaram na construç
                 </tr>
                 <tr>
                     <td><a  href="https://github.com/bolzanMGB">Othavio Bolzan</a></td>
-                    <td>Criou o diagrama referentes aos requisitos: RF11, RF12.1, RF12.2, RF12.3, RF12.4, RF12.5, RF12.6. Criou as especificações dos casos de uso referente a estes requisitos, sendo eles UC33, UC34, UC35, UC38, UC39.</td>	
+                    <td>Criou o diagrama referentes aos requisitos: RF11, RF12.1, RF12.2, RF12.3, RF12.4, RF12.5, RF12.6. Criou as especificações dos casos de uso referente a estes requisitos, sendo eles UC33, UC34, UC35, UC36, UC37, UC38, UC39.</td>	
                 </tr>
                 <tr>
                     <td><a  href="https://github.com/redjsun">Yzabella Miranda</a></td>
-                    <td>Criou o diagrama referentes aos requisitos: RF3, RF13, RF14.1, RF14.2, RF15 e RF22. Criou as especificações dos casos de uso referente a estes requisitos, sendo eles UC36, UC37, UC38, UC39, UC42, UC43.</td>	
+                    <td>Criou o diagrama referentes aos requisitos: RF3, RF13, RF14.1, RF14.2, RF15 e RF22. Criou as especificações dos casos de uso referente a estes requisitos, sendo eles UC40, UC41, UC42, UC43 E UC44.</td>	
                 </tr>
         </tbody>
     </table>
@@ -124,14 +124,14 @@ As figuras 1 a 7 representam as especializações dos casos de uso.
 
 <p  align="center">Fonte: Autoria de <a  href="https://github.com/matheusdealcantara" target="_blank" >Matheus de Alcântara</a></p>
 
-<p align="center">Figura 6 - Caso de uso UC32 a UC34 </p>
+<p align="center">Figura 6 - Caso de uso UC33 a UC39 </p>
 <p align="center">
   <img src="..\..\assets\casos-uso\casos-de-uso-othavio-novo.png" alt="Heatmap de disponibilidade da equipe" width="600">
 </p>
 
 <p  align="center">Fonte: Autoria de <a  href="https://github.com/bolzanMGB" target="_blank">Othavio Bolzan</a></p>
 
-<p align="center">Figura 7 - Caso de uso UC35 a UC38 </p>
+<p align="center">Figura 7 - Caso de uso UC40 a UC44 </p>
 <p align="center">
   <img src="..\..\assets\casos-uso\casos-uso-yza.png" alt="Heatmap de disponibilidade da equipe" width="600">
 </p>

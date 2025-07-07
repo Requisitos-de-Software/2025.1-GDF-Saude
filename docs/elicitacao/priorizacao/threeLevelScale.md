@@ -122,14 +122,14 @@ A Tabela 1 contêm as informações do usuário participante da Priorização, c
 | RNF06 | O aplicativo deve ser compatível com leitores de tela para garantir acessibilidade a pessoas com deficiência visual.  | MÉDIA      |
 | RNF07 | Garantir conformidade com a Portaria nº 127/2024, legislações complementares e padrões da LGPD.                       | ALTA       |
 | RNF08 | Processar autorizações prévias em até 10 dias úteis.                                                                  | MÉDIA      |
-| RNF09 | Comunicar-se com a folha de pagamento do GDF para descontos de mensalidades.                                          | BAIXA      |
+| RNF09 | O sistema deve enviar, mensalmente, até o dia 5 de cada mês, as informações de desconto dos beneficiários para a folha de pagamento do GDF e registrar o status de sucesso ou falha da operação.                                 | BAIXA      |
 | RNF10 | Garantir que informações críticas, como a carteirinha digital, estejam acessíveis em até três cliques ou com no máximo 2 cliques a partir da tela inicial. | MÉDIA      |
 | RNF11 | Manter histórico de notificações acessível ao usuário por no mínimo 6 meses.                                          | MÉDIA      |
 | RNF12 | O aplicativo deve oferecer suporte por chat ou telefone.                                                              | ALTA       |
 | RNF13 | Deve funcionar de forma offline para acesso à carteirinha e histórico de consultas.                                    | ALTA       |
 | RNF14 | O layout deve ser consistente com o portal oficial do plano.                                                           | BAIXA      |
 | RNF15 | O sistema deve exigir autenticação via GovBR para login.                                                              | BAIXA      |
-| RNF16 | As informações exibidas devem ser claras, completas e atualizadas em tempo real.                                       | ALTA       |
+| RNF16 | As informações exibidas, como dados de consulta, devem ser completas e atualizadas em até 100ms.                              | ALTA       |
 
 
 <font size="3"><p style="text-align: center">Fonte: [Othavio Bolzan](https://github.com/bolzanMGB) e [Yzabella Pimenta](https://github.com/redjsun) .</p></font>

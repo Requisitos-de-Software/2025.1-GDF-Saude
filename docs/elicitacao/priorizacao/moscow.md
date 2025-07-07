@@ -96,7 +96,7 @@ Requisitos essenciais para o funcionamento do sistema.
 | <a id="RNF07"></a>RNF07    | Garantir conformidade com a Portaria nº 127/2024, legislações complementares e padrões da LGPD.                    | [GL10](../elicitacao/tecnicas/glossario.md#GL10), [QT15](../elicitacao/tecnicas/questionario.md#QT15)                   |
 | <a id="RNF10"></a>RNF10    | Garantir que informações críticas, como a carteirinha digital, estejam acessíveis em até três cliques ou com no máximo 2 cliques a partir da tela inicial. | [GF15](../elicitacao/tecnicas/grupo_focal.md#GF15), [IS16](../elicitacao/tecnicas/introspeccao.md#IS16)                    |
 | <a id="RNF13"></a>RNF13    | Deve funcionar de forma offline para acesso à carteirinha e histórico de consultas.                               | [IS19](../elicitacao/tecnicas/introspeccao.md#IS19)                          |
-| <a id="RNF16"></a>RNF16    | As informações exibidas devem ser claras, completas e atualizadas em tempo real.                                  | [QT13](../elicitacao/tecnicas/questionario.md#QT13)                          |
+| <a id="RNF16"></a>RNF16    | As informações exibidas, como dados de consulta, devem ser completas e atualizadas em até 100ms.                             | [QT13](../elicitacao/tecnicas/questionario.md#QT13)                          |
 
 
 <font size="3"><p style="text-align: center">Fonte: [Lucas Alves](https://github.com/LucasAlves71) e [Kaleb Macedo](https://github.com/kalebmacedo).</p></font>
@@ -135,7 +135,7 @@ Requisitos desejáveis, mas que não são prioritários.
 | <a id="RF10"></a>RF10     | Permitir que o usuário favorite horários de consulta desejados.                                                    | [GF06](../elicitacao/tecnicas/grupo_focal.md#GF06)                          |
 | <a id="RF12"></a>RF12     | Divulgar informações sobre novas funcionalidades no aplicativo.                                                    | [GF05](../elicitacao/tecnicas/grupo_focal.md#GF05)                          |
 | <a id="RF14"></a>RF14     | Apresentar novas clínicas e clínicas próximas de acordo com a localização do usuário.                              | [EN09](../elicitacao/tecnicas/entrevista.md#EN09)                          |
-| <a id="RNF09"></a>RNF09    | Comunicar-se com a folha de pagamento do GDF para descontos de mensalidades.                                       | [GL14](../elicitacao/tecnicas/glossario.md#GL14)                         |
+| <a id="RNF09"></a>RNF09    | O sistema deve enviar, mensalmente, até o dia 5 de cada mês, as informações de desconto dos beneficiários para a folha de pagamento do GDF e registrar o status de sucesso ou falha da operação.                         | [GL14](../elicitacao/tecnicas/glossario.md#GL14)                         |
 | <a id="RNF11"></a>RNF11    | Manter histórico de notificações acessível ao usuário por no mínimo 6 meses.                                      | [GF16](../elicitacao/tecnicas/grupo_focal.md#GF16)                          |
 | <a id="RNF14"></a>RNF14    | O layout deve ser consistente com o portal oficial do plano.                                                      | [QT16](../elicitacao/tecnicas/questionario.md#QT16)                          |
 

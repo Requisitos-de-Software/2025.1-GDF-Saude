@@ -37,7 +37,7 @@ Na tabela 1 contêm todos os integrantes da equipe que participaram no refinamen
             </tr>
             <tr>
                 <td><a href="https://github.com/bolzanMGB">Othavio Bolzan</a></td>
-                <td>Refinou os requisitos RF11, RF12.1, RF12.2, RF12.3, RF12.4, RF12.5, RF12.6, RF13, RF14</td>
+                <td>Refinou os requisitos RF11, RF12.1, RF12.2, RF12.3, RF12.4, RF12.5, RF12.6, RNF13, RNF14</td>
             </tr>
             <tr>
                 <td><a href="https://github.com/redjsun">Yzabella Miranda</a></td>
@@ -166,7 +166,7 @@ Na tabela 3 encontra-se todos os requisitos não funcionais que foram ou não co
 | <a id="RNF06"></a>RNF06     | O aplicativo deve ser compatível com leitores de tela para garantir acessibilidade a pessoas com deficiência visual.                | [IS20](../elicitacao/tecnicas/introspeccao.md#IS20), [QT14](../elicitacao/tecnicas/questionario.md#QT14)                                                                                                                                                                                                              | Não              |
 | <a id="RNF07"></a>RNF07     | Garantir conformidade com a Portaria nº 127/2024, legislações complementares e padrões da LGPD.              | [GL10](../elicitacao/tecnicas/glossario.md#GL10), [QT15](../elicitacao/tecnicas/questionario.md#QT15)                                                                                                                                                                                                              | Sim              |
 | <a id="RNF08"></a>RNF08     | Processar autorizações prévias em até 10 dias úteis.	              | [GL13](../elicitacao/tecnicas/glossario.md#GL13)                                                                                                                                                                                                            | Sim              |
-| <a id="RNF09"></a>RNF09    | Comunicar-se com a folha de pagamento do GDF para descontos de mensalidades.                                       | [GL14](../elicitacao/tecnicas/glossario.md#GL14)                         | Sim              |
+| <a id="RNF09"></a>RNF09    | O sistema deve enviar, mensalmente, até o dia 5 de cada mês, as informações de desconto dos beneficiários para a folha de pagamento do GDF e registrar o status de sucesso ou falha da operação.               | [GL14](../elicitacao/tecnicas/glossario.md#GL14)                         | Sim              |
 | <a id="RNF10"></a>RNF10    | Garantir que informações críticas, como a carteirinha digital, estejam acessíveis em até três cliques ou com no máximo 2 cliques a partir da tela inicial. | [GF15](../elicitacao/tecnicas/grupo_focal.md#GF15), [IS16](../elicitacao/tecnicas/introspeccao.md#IS16)                    | Sim              |
 | <a id="RNF11"></a>RNF11     | O sistema deve armazenar e permitir o acesso ao histórico de notificações do usuário por no mínimo 180 dias.                                                       | [GF16](../elicitacao/tecnicas/grupo_focal.md#GF16)  | Não              |
 | <a id="RNF12"></a>RNF12     | O aplicativo deve disponibilizar uma funcionalidade de chat com um atendente em até 2 cliques a partir da tela inicial e mostrar um número de telefone para suporte.                        | [IS15](../elicitacao/tecnicas/introspeccao.md#IS15)  | Sim              |
