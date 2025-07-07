@@ -52,10 +52,6 @@ Tabela 2: ferramentas utilizadas
 
 <p align="center">Autoria de <a href="https://github.com/matheusdealcantara">Matheus de Alcântara</a></p>
 
-
-
-Autor: [Matheus de Alcântara](https://github.com/matheusdealcantara)
-
 ## Referências
 
 <a id="ref1"></a>[1] GITHUB. Disponível em: <https://github.com/>. Acesso em: 09 de abril de 2025.
@@ -103,4 +99,5 @@ Autor: [Matheus de Alcântara](https://github.com/matheusdealcantara)
 | `1.0.2` | 12/04/2025 | Adição de novas ferramentas e correção das imagens | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Kaleb de Souza](https://github.com/kalebmacedo) |
 | `1.0.3` | 17/04/2025 | Adição de novas ferramentas com suas imagens | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Kaleb de Souza](https://github.com/kalebmacedo) |
 | `1.0.4` | 03/05/2025 | Remoção da ferramenta monday e correção nas datas | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Kaleb de Souza](https://github.com/kalebmacedo) |
-| `1.1`   | 26/06/2025 | Adição das ferramentas Github Copilot, Gemini, StackEdit, Discord e tabela de integrantes do grupo | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Yzabella Miranda](https://github.com/YzabellaMiranda) |
+| `1.1`   | 26/06/2025 | Adição das ferramentas Github Copilot, Gemini, StackEdit, Discord e tabela de integrantes do grupo | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Yzabella Miranda](https://github.com/redjsun) |
+| `1.1.1` | 07/07/2025 | Correção de caminho das imagens | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Yzabella Miranda](https://github.com/redjsun) |
