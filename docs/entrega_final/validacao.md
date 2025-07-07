@@ -10,7 +10,6 @@ A prototipação de alta fidelidade foi desenvolvida de forma colaborativa por t
 
 Durante o desenvolvimento, cada integrante ficou responsável por prototipar e validar requisitos específicos, conforme detalhado na [tabela de protótipos](../modelagem/prototipos.md#protótipos). As validações foram realizadas com usuários reais, cujos registros e vídeos estão documentados no artefato.
 
-<center>
 
 **Tabela 1** – Validações com Usuários Reais
 
@@ -22,7 +21,6 @@ Durante o desenvolvimento, cada integrante ficou responsável por prototipar e v
 | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [RF09.3](../elicitacao/requisitos_finais.md#RF09.3), [RF20](../elicitacao/requisitos_finais.md#RF20) | Usuário real | 22/06/2025 | [Vídeo](https://youtu.be/DZKtZfrtrus) |
 | [Othavio Bolzan](https://github.com/bolzanMGB) | [RF12.1](../elicitacao/requisitos_finais.md#RF12.1), [RF12.2](../elicitacao/requisitos_finais.md#RF12.2), [RF12.5](../elicitacao/requisitos_finais.md#RF12.5) | Usuário real | 22/06/2025 | [PDF](../assets/implementados/telas_othavio.pdf) |
 
-</center>
 
 A metodologia de validação, seleção dos participantes e resultados detalhados estão descritos em [Protótipos de Alta Fidelidade](../modelagem/prototipos.md#metodologia).
 
