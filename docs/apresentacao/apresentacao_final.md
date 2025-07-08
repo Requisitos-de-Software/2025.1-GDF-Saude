@@ -12,7 +12,7 @@ A apresentação foi gravada pela plataforma Teams no dia **07/07/2025**, contan
 
 <p align="center">Vídeo 1: Vídeo da Apresentação final</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RaEkegCRM7M?si=3igObYd_L_jEHvhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mpxuznI1sr0?si=7vu_I1xzqVPPdIu3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p style="text-align: center">Fonte: <a href = "https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a>.</p>
 
